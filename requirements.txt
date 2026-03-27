@@ -1,4 +1,4 @@
-flask
-tflite-runtime
-Pillow
-numpy
+flask==2.3.3
+numpy==1.26.4
+Pillow==10.3.0
+tflite-runtime==2.14.0
