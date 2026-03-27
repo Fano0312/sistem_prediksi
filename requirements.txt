@@ -1,0 +1,4 @@
+flask
+tensorflow-cpu
+Pillow
+numpy
